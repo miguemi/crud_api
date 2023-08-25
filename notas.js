@@ -11,6 +11,12 @@ const NOTAS = [
     "id": 2,
     "titulo": "Recetas de cocina",
     "contenido": "Debe llevar masa para pizaa"
+  },
+
+  {
+    "id": 3,
+    "titulo": "Seguridad",
+    "contenido": "Debe contar con cali Linux"
   }
 ]
 
